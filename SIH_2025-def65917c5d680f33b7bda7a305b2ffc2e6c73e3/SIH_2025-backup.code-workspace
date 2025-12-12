@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "sihbackup",
+			"path": "../../../Documents/PlatformIO/Projects/sihbackup"
+		}
+	],
+	"settings": {}
+}
